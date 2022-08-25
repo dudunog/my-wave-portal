@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dudunog/my-wave-portal/issues"
   },
-  "homepage": "https://github.com/dudunog/my-wave-portal#readme"
+  "homepage": "https://github.com/dudunog/my-wave-portal#readme",
+  "devDependencies": {
+    "hardhat": "^2.10.2"
+  }
 }
